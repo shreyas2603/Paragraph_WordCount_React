@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container{
+  max-width: 450px;
+  text-align: center;
+  background-color: rgba(248, 141, 2, 0.812);
+}
+
